@@ -7,3 +7,7 @@ pandas
 numpy   
 sumolib   
 traci
+
+## Getting started
+- run `python simulation.py` to generate raw output data from the SUMO simulation.
+- run `python queue_length_extraction.py` to process the raw data and generate the final dataset
