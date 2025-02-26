@@ -1,0 +1,11 @@
+<configuration>
+    <input>
+        <net-file value="wangjing.net.xml"/>
+        <route-files value="wangjing.rou.xml"/>
+    </input>
+	<time>
+        <begin value="0"/>
+        <end value="10800"/>
+        <step-length value="1"/>
+    </time>
+</configuration>
